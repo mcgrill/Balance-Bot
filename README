@@ -1,0 +1,12 @@
+ ____            ___                                       ____           __      
+/\  _`\         /\_ \                                     /\  _`\        /\ \__   
+\ \ \L\ \    __ \//\ \      __      ___     ___     __    \ \ \L\ \   ___\ \ ,_\  
+ \ \  _ <' /'__`\ \ \ \   /'__`\  /' _ `\  /'___\ /'__`\   \ \  _ <' / __`\ \ \/  
+  \ \ \L\ \\ \L\.\_\_\ \_/\ \L\.\_/\ \/\ \/\ \__//\  __/    \ \ \L\ \\ \L\ \ \ \_ 
+   \ \____/ \__/.\_\\____\ \__/.\_\ \_\ \_\ \____\ \____\    \ \____/ \____/\ \__\
+    \/___/ \/__/\/_//____/\/__/\/_/\/_/\/_/\/____/\/____/     \/___/ \/___/  \/__/
+
+by Nick McGill, Lucas Hartman, & Christine Kappeyne
+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~
+
+Built for a graduate-level mechatronics course at UPenn (MEAM 510), this robot uses 6DOF data (3d gyro + 3d accelerometer) in a PID control loop running on a 16 MHz processor to send updated position commands to the two motors.
