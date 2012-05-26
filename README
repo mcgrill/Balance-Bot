@@ -10,3 +10,6 @@ by Nick McGill, Lucas Hartman, & Christine Kappeyne
 ~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~+~
 
 Built for a graduate-level mechatronics course at UPenn (MEAM 510), this robot uses 6DOF data (3d gyro + 3d accelerometer) in a PID control loop running on a 16 MHz processor to send updated position commands to the two motors.
+
+"libs" contains all of the libraries necessary for compiling this C code.  For using the Makefile on Mac: http://medesign.seas.upenn.edu/index.php/Guides/MaEvArM-starting-mac
+
